@@ -62,7 +62,7 @@ export default function Announcement() {
             </div>
             
             <div style={{ color: 'var(--text)', lineHeight: '1.6', fontSize: '15px' }}>
-              已解决并发刷新导致数据错乱问题，遇到有问题的数据可以删除后重新添加，抱歉给您带来的不便。
+              所有数据来自网络，仅供个人学习。
             </div>
 
             <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '8px' }}>
